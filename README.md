@@ -1,3 +1,7 @@
+## About this fork !!!
+
+This fork is solely for mavenizing Processing 2.2.1
+
 Processing
 ==========
 
